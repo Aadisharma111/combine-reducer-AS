@@ -1,0 +1,1 @@
+export const intialState={ func:"Admin",lname:"verma",value:99 }
